@@ -1,0 +1,2 @@
+##### Backstory
+Quinctilianus Plaskett is a simple traveller, or at least that is what he claims to be. From the far edge of the [[Kingdom of Raztal]] and now up to the [[Kingdom of Exol]], Quinctilianus travels the world finding and retelling the stories of adventurers from both local folk lore and actual experiences. Though generally well liked, he has brought the ire of one teifling noble family for his continual jabs at them in his various retellings of stories.

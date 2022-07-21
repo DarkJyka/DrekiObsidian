@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "13e83ba9bc921cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "323676930bfa5e13",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fec9e3a40b770c13",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7e75fd495824842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93f4bf5898e0a1ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b6dbe88bf2add68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6a0c2af63b74dfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8b46d9a40694cd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3813b0bb1e5a9cf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "323676930bfa5e13",
+  "lastOpenFiles": [
+    "All Party Stuff/Active Games/Drekigard Campaign 1/Timeline Of Drekigard Campaign 1.md",
+    "All Party Stuff/Active Games/Drekigard Campaign 1/The Unnamed Party.md",
+    "Places/Drekigard/Settlements/Exolian Lands/Queensgrace.md",
+    "Places/Drekigard/City Locations/Queensgrace/Circle 27.md",
+    "Places/Drekigard/City Locations/Queensgrace/Circle 11.md",
+    "Places/Drekigard/City Locations/Queensgrace/Circle 7.md",
+    "Places/Drekigard/City Locations/Queensgrace/Circle 3.md",
+    "Places/Drekigard/City Locations/Queensgrace/Circle 1.md",
+    "Places/Drekigard/The Exolian Magic Academy.md",
+    "People/Drekigard/Mercenary Groups/The Ashen.md"
+  ]
+}

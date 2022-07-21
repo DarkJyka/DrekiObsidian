@@ -1,0 +1,2 @@
+# The Serpent Empress
+Trading in secrets and knowledge, the Serpent Empress has taken over her homeworld through magic and brute power. Only those she truly trusts know her real name. She rules from the planet [[S'varn]].
